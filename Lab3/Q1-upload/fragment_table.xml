@@ -1,0 +1,38 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*">
+
+    <TableRow>
+        <TextView android:text="ID" android:padding="10dp" android:textStyle="bold"/>
+        <TextView android:text="Name" android:padding="10dp" android:textStyle="bold"/>
+        <TextView android:text="Role" android:padding="10dp" android:textStyle="bold"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="1" android:padding="10dp"/>
+        <TextView android:text="Adolf Hitler" android:padding="10dp"/>
+        <TextView android:text="Painter" android:padding="10dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="2" android:padding="10dp"/>
+        <TextView android:text="Vijay Mallya" android:padding="10dp"/>
+        <TextView android:text="Travel Agent" android:padding="10dp"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="3" android:padding="10dp"/>
+        <TextView android:text="Mukesh Ambani" android:padding="10dp"/>
+        <TextView android:text="Wedding Planner" android:padding="10dp"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="4" android:padding="10dp"/>
+        <TextView android:text="Pablo Escobar" android:padding="10dp"/>
+        <TextView android:text="Pharmacist" android:padding="10dp"/>
+    </TableRow>
+    <TableRow>
+        <TextView android:text="5" android:padding="10dp"/>
+        <TextView android:text="Jeffrey Epstein" android:padding="10dp"/>
+        <TextView android:text="Kindergarten teacher" android:padding="10dp"/>
+    </TableRow>
+</TableLayout>
